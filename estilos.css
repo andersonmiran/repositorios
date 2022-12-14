@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(5, 65, 54);
+}
+
+
+#primera{
+
+    background-color: #61accaf5;
+    height: 250px;
+    width: 600px;
+}
+#segunda{
+    background-color: #61accaf5;
+    height: 250px;
+    width: 600px;
+}
+#tercera{
+    background-color: #61accaf5;
+    height: 250px;
+    width: 300px;
+}
+#cuarto{
+    background-color: #61accaf5;
+    height: 250px;
+    width: 580px;
+    position: absolute;
+    left: 17%;
+    top: 545px;
+}
+#quinto{
+    background-color: #61accaf5;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 33%;
+    top: 10px;
+}
+#sexto{
+    background-color: #61accaf5;
+    height: 250px;
+    width: 200px;
+    position: absolute;
+    left: 60%;
+    top: 10px;
+}
+#septimo{
+    background-color: #61accaf5;
+    height: 250px;
+    width: 200px;
+    position: absolute;
+    left: 49%;
+    top: 545px;
+}
+#octavo{
+    background-color:#61accaf5;
+    height: 250px;
+    width: 200px;
+    position: absolute;
+    left: 60%;
+    top: 275px;
+}
+#noveno{
+    background-color:#61accaf5;
+    height: 250px;
+    width: 200px;
+    position: absolute;
+    left: 60%;
+    top: 545px;
+}
+#decimo{
+    background-color:#61accaf5;
+    height: 250px;
+    width: 200px;
+    position: absolute;
+    left: 71%;
+    top: 10px;
+}
+
+#undecimo{
+    background-color:#61accaf5;
+    height: 520px;
+    width: 200px;
+    position: absolute;
+    left: 71%;
+    top: 276px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
